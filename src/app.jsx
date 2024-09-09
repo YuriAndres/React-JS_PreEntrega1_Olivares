@@ -1,15 +1,13 @@
-import React from 'react'
 import NavBar from './components/NavBar/NavBar'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 
-function app() {
+function App() {
   return (
     <>
       <NavBar/>
-      <ItemListContainer/>
+      <ItemListContainer greeting={"Bienvenido a ValaSports. Somos Expertos en Pádel"}/>
     </>
   )
 }
 
-export default app
-
+export default App
