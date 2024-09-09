@@ -1,7 +1,7 @@
 import "./NavBar.css";
-import CartWidget from "../CartWidget/CartWidget"
-import logo_white from "../../assets/logo_white.png"
-import logo_green_black from "../../assets/logo_green_black.png"
+import CartWidget from "../CartWidget/CartWidget";
+import logo_white from "../../assets/logo_white.png";
+import logo_green_black from "../../assets/logo_green_black.png";
 
 
 function NavBar() {

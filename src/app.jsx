@@ -1,5 +1,5 @@
-import NavBar from './components/NavBar/NavBar'
-import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+import NavBar from './components/NavBar/NavBar';
+import ItemListContainer from './components/ItemListContainer/ItemListContainer';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <NavBar/>
       <ItemListContainer greeting={"Bienvenido a ValaSports. Somos Expertos en Pádel"}/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

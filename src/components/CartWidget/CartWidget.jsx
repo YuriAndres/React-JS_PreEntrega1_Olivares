@@ -6,7 +6,7 @@ function CartWidget() {
       <FaShoppingCart size="20px"/>
       <span className="badge">2</span>
     </div>
-  )
+  );
 }
 
-export default CartWidget
+export default CartWidget;
