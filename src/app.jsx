@@ -4,8 +4,8 @@ import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 function App() {
   return (
     <>
-      <NavBar/>
-      <ItemListContainer greeting={"Bienvenido a ValaSports. Somos Expertos en Pádel"}/>
+      <NavBar />
+      <ItemListContainer greeting={"Bienvenido a ValaSports. Somos Expertos en Pádel"} />
     </>
   );
 }
