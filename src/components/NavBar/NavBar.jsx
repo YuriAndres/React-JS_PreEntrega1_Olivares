@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <nav className="navbar">
         <div>
-            <img className="logo" src={logo_green_black} alt="Logo ValaSports"/>
+            <img className="logo" src={logo_green_black} alt="Logo de ValaSports"/>
         </div>
         <ul className="navbar-links">
             <li className="navbar-item">
